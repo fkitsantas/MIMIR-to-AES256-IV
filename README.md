@@ -1,4 +1,4 @@
-# MIMIR to AES256-IV (.Net Version Upgrade Experiment)
+# MIMIR to AES256-IV (.Net Version Upgrading Experiment)
 
 ## Overview
 
