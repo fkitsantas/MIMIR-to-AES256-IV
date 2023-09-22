@@ -10,7 +10,6 @@ MIMIR-to-AES256-IV is an utility program designed to decrypt an encrypted string
 - [Installation](#installation)
 - [Usage](#usage)
 - [Dependencies](#dependencies)
-- [Contribution](#contribution)
 - [License](#license)
 
 ## Installation
@@ -55,14 +54,6 @@ After input, the program will decrypt the string using MIMIR's TripleDES algorit
 
 - .NET 7
 - MIMIR.dll (for TripleDES decryption)
-
-## Contribution
-
-We welcome contributions to this project. Please follow these guidelines:
-
-1. Fork the repository and create your branch from `main`.
-2. Make sure your code has proper comments and follows the existing style for consistency.
-3. Issue a Pull Request with your changes and provide an explanation of what the changes entail.
   
 ## License
 
