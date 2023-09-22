@@ -19,35 +19,35 @@ To install this utility, you'll need to have [.NET 5](https://dotnet.microsoft.c
 
 1. Clone the repository to your local machine:
 
-   \```
+   ```
    git clone https://github.com/fkitsantas/MIMIR-to-AES256-IV.git
-   \```
+   ```
 
 2. Navigate to the project folder:
 
-   \```
+   ```
    cd MIMIR-to-AES256-IV
-   \```
+   ```
 
 3. Build the project:
 
-   \```
+   ```
    dotnet build
-   \```
+   ```
 
 4. Run the application:
 
-   \```
+   ```
    dotnet run
-   \```
+   ```
 
 ## Usage
 
 Run the program and follow the prompt to input the encrypted string:
 
-\```
+```
 Please enter the MIMIR TripleDES encrypted string:
-\```
+```
 
 After input, the program will decrypt the string using MIMIR's TripleDES algorithm and will encrypt it back using AES-IV encryption. Both the decrypted and the newly encrypted strings will be printed to the console for your verification.
 
