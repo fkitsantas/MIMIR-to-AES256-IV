@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MIMIR-to-AES256-IV", "MIMIR-to-AES256-IV.csproj", "{CE96A19F-D7F4-4D83-A498-FCAF62D17936}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE96A19F-D7F4-4D83-A498-FCAF62D17936}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE96A19F-D7F4-4D83-A498-FCAF62D17936}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE96A19F-D7F4-4D83-A498-FCAF62D17936}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE96A19F-D7F4-4D83-A498-FCAF62D17936}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C0325364-13DF-4E82-B154-38739FE6EE30}
+	EndGlobalSection
+EndGlobal
