@@ -9,7 +9,6 @@ This project serves as an experiment to upgrade a solution from .NET 5 to .NET 7
 - [Overview](#overview)
 - [Learnings](#learnings)
 - [Versions](#versions)
-- [Contribution](#contribution)
 - [License](#license)
 
 ### Learnings
@@ -29,14 +28,6 @@ The project has two main branches, each corresponding to a different .NET versio
 - [.NET 7 Version](https://github.com/fkitsantas/MIMIR-to-AES256-IV/tree/dotNet7)
 
 Feel free to explore each to see the changes that were necessary to facilitate the migration.
-
-## Contribution
-
-Contributions are welcome. Please follow these guidelines:
-
-1. Fork the repository and create your branch from the appropriate version branch (either `dotNet5` or `dotNet7`).
-2. Ensure your code has proper comments and adheres to existing coding standards.
-3. Submit a Pull Request explaining your changes and the version they apply to.
 
 ## License
 
