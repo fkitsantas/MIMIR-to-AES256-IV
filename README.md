@@ -12,12 +12,14 @@ This project serves as an experiment to migrate a solution from .NET 5 to .NET 7
 - [Contribution](#contribution)
 - [License](#license)
 
-## Learnings
+### Learnings
 
 This project has been an invaluable exercise in:
 
-1. Understanding how references and dependencies are managed during migration.
-2. Gaining insights into the backward compatibility of libraries compiled for earlier .NET versions (in this case, MIMIR.dll compiled for .NET 5).
+1. **Software Development and Cryptography**: Creating the original .NET 5 solution was an exercise in best practices for secure coding and cryptography. Implementing TripleDES decryption via MIMIR.dll and AES-IV encryption required a deep understanding of cryptographic algorithms and their implementation in C#.
+2. **Migration Mechanics**: Understanding how references and dependencies are managed during an upgrade process. This provides insights into what components of the codebase are susceptible to breaking changes and how to address them.
+3. **Backward Compatibility**: Gaining insights into the backward compatibility of libraries compiled for earlier .NET versions. In this case, the learning experience involved understanding how MIMIR.dll, which was compiled for .NET 5, interacts with a .NET 7 environment.
+
 
 ## Versions
 
