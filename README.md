@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project serves as an experiment to upgrade a solution from .NET 5 to .NET 7. The original solution was developed in .NET 5 using Visual Studio 2022. It was designed to decrypt strings encrypted with MIMIR's TripleDES algorithm and re-encrypt them using AES-IV encryption. The end goal was to understand the intricacies of migrating from a legacy .NET version to the most current release, particularly in terms of references, dependencies, and backward compatibility.
+This project serves as an experiment to upgrade a solution from .NET 5 to .NET 7. The original solution was developed in .NET 5 using Visual Studio 2022. It was designed to decrypt strings encrypted with MIMIR's TripleDES algorithm and re-encrypt them using AES-IV encryption. The end goal was to understand the intricacies of upgrading from a legacy .NET version to the most current release, particularly in terms of references, dependencies, and backward compatibility.
 
 ## Table of Contents
 
