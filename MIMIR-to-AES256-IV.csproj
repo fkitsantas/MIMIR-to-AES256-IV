@@ -1,15 +1,12 @@
 <Project Sdk="Microsoft.NET.Sdk">
-
   <PropertyGroup>
     <OutputType>Exe</OutputType>
-    <TargetFramework>net5.0</TargetFramework>
+    <TargetFramework>net7.0</TargetFramework>
     <RootNamespace>MIMIR_to_AES256_IV</RootNamespace>
   </PropertyGroup>
-
   <ItemGroup>
     <Reference Include="MIMIR">
       <HintPath>libs\MIMIR.dll</HintPath>
     </Reference>
   </ItemGroup>
-
 </Project>
