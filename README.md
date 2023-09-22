@@ -20,7 +20,7 @@ To install this utility, you'll need to have [.NET 5](https://dotnet.microsoft.c
 1. Clone the repository to your local machine:
 
    ```
-   git clone -b dotNet7 https://github.com/fkitsantas/MIMIR-to-AES256-IV.git
+   git clone -b dotNet5 https://github.com/fkitsantas/MIMIR-to-AES256-IV.git
    ```
 
 2. Navigate to the project folder:
